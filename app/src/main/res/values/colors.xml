@@ -8,4 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="red">#C80C0C</color>
+    <color name="dark_blue">#191926</color>
+    <color name="reviews_color">#6D6D80</color>
+    <color name="star_color">#6D6D80</color>
+    <color name="avengers_color">#ECECEC</color>
 </resources>

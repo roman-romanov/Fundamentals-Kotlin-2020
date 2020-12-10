@@ -12,7 +12,15 @@
     <string name="mark_ruffalo">Mark Ruffalo</string>
     <string name="chris_hamsworth">Chris Hamsworth</string>
     <string name="back">Back</string>
-    <string name="review">125 Review</string>
+    <string name="review">125 REVIEWS</string>
     <string name="c_hamsworth">c_hamsworth</string>
     <string name="string_chris_evans" />
+    <string name="star5">Star5</string>
+    <string name="star4">Star4</string>
+    <string name="star3">Star3</string>
+    <string name="star2">Star2</string>
+    <string name="star1">Star1</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="margin_bottom">Margin Bottom</string>
 </resources>
