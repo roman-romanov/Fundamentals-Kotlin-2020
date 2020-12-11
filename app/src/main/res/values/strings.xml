@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Fundamentals-Kotlin-2020</string>
+    <string name="avengers_end_game">Avengers: \nEnd Game</string>
+    <string name="_13">13+</string>
+    <string name="todo">TODO</string>
+    <string name="action_adventure_fantasy">Action, Adventure, Fantasy</string>
+    <string name="storyline">Storyline</string>
+    <string name="description">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
+    <string name="cast">Cast</string>
+    <string name="robert_downey_jr">Robert Downey Jr.</string>
+    <string name="chris_evans">Chris \nEvans</string>
+    <string name="mark_ruffalo">Mark Ruffalo</string>
+    <string name="chris_hamsworth">Chris Hamsworth</string>
+    <string name="back">Back</string>
+    <string name="review">125 REVIEWS</string>
+    <string name="c_hamsworth">c_hamsworth</string>
+    <string name="string_chris_evans" />
+    <string name="star5">Star5</string>
+    <string name="star4">Star4</string>
+    <string name="star3">Star3</string>
+    <string name="star2">Star2</string>
+    <string name="star1">Star1</string>
+    <string name="logo_image">Logo Image</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="margin_bottom">Margin Bottom</string>
 </resources>
